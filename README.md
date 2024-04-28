@@ -19,12 +19,12 @@ npm run start
 Once the application is running, you can use it to check the weather forecast for different locations. Enter the name of the city or location you want to check in the search bar, and the application will display the current weather conditions along with a forecast for the upcoming days.
 
 ## Features
-**Search Functionality:** Easily search for weather forecasts for different locations.
-**Current Conditions:** View the current weather conditions, including temperature, humidity, wind speed.
-**Forecast:** Get a forecast for the upcoming days to plan ahead.
+* **Search Functionality:** Easily search for weather forecasts for different locations.
+* **Current Conditions:** View the current weather conditions, including temperature, humidity, wind speed.
+* **Forecast:** Get a forecast for the upcoming days to plan ahead.
 
 ## Technologies
-React
-OpenWeatherMap API for weather data
+* React
+* OpenWeatherMap API for weather data
 
 
