@@ -1,6 +1,6 @@
 # Weather Forecasting Application
 
-Welcome to our Weather Forecast Application! This application utilizes React to provide you with up-to-date weather forecasts in a user-friendly interface.
+Welcome to the Weather Forecast Application! This application utilizes React to provide you with up-to-date weather forecasts in a user-friendly interface.
 
 ## Setup
 
